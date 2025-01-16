@@ -1,0 +1,15 @@
+[submodule "metrics"]
+	path = metrics
+	url = https://github.com/TalantTrail/metrics
+[submodule "url-shortener"]
+	path = url-shortener
+	url = https://github.com/TalantTrail/url-shortener
+[submodule "ms-achievement"]
+	path = ms-achievement
+	url = https://github.com/TalantTrail/ms-achievement
+[submodule "ms-post"]
+	path = ms-post
+	url = https://github.com/TalantTrail/ms-post
+[submodule "ms-user"]
+	path = ms-user
+	url = https://github.com/TalantTrail/ms-user

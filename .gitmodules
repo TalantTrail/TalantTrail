@@ -13,3 +13,6 @@
 [submodule "ms-user"]
 	path = ms-user
 	url = https://github.com/TalantTrail/ms-user
+[submodule "environment"]
+	path = environment
+	url = https://github.com/TalantTrail/environment
